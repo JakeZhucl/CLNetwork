@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (5.4.0)
+  - HandyJSON (5.0.2)
+  - MJRefresh (3.5.0)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (5.0.0)
+  - YYCache (1.0.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - HandyJSON
+  - MJRefresh
+  - SVProgressHUD
+  - SwiftyJSON
+  - YYCache
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - HandyJSON
+    - MJRefresh
+    - SVProgressHUD
+    - SwiftyJSON
+    - YYCache
+
+SPEC CHECKSUMS:
+  Alamofire: 3b6a534a3df22db367e4dedeeca73d1ddfcf0e2f
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  MJRefresh: 6afc955813966afb08305477dd7a0d9ad5e79a16
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+
+PODFILE CHECKSUM: a942a04ed34b43c64a7b3ed6e462c8805b4078f7
+
+COCOAPODS: 1.9.3
